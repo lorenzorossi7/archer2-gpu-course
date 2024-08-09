@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"myKernel(int, int, double, double*, double*, double*)",1,40480,40480,100.0

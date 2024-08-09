@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"myKernel(int, int, double, double*, double*, double*) [clone .kd]",1,71680,71680,100.0

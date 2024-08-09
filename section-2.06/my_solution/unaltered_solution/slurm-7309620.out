@@ -1,0 +1,15 @@
+RPL: on '240808_142839' from '/opt/rocm-5.2.3' in '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.06/my_solution/unaltered_solution'
+RPL: profiling '"./a.out"'
+RPL: input file ''
+RPL: output dir '/tmp/rpl_data_240808_142839_7612'
+RPL: result dir '/tmp/rpl_data_240808_142839_7612/input_results_240808_142839'
+ROCProfiler: input from "/tmp/rpl_data_240808_142839_7612/input.xml"
+  0 metrics
+Device 0 name: 
+Maximum number of threads per block: 1024
+Results:
+No. rows 1024, and correct rows 1024
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240808_142839_7612/input_results_240808_142839
+File '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.06/my_solution/unaltered_solution/results.csv' is generating
+File '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.06/my_solution/unaltered_solution/results.stats.csv' is generating

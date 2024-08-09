@@ -1,0 +1,13 @@
+RPL: on '240808_142259' from '/opt/rocm-5.2.3' in '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.05/my_solution/step2'
+RPL: profiling '"./a.out"'
+RPL: input file ''
+RPL: output dir '/tmp/rpl_data_240808_142259_1796'
+RPL: result dir '/tmp/rpl_data_240808_142259_1796/input_results_240808_142259'
+ROCProfiler: input from "/tmp/rpl_data_240808_142259_1796/input.xml"
+  0 metrics
+Result for device dot product is: 1.5011827e+15 (correct 1.5011827e+15)
+Correct
+
+ROCPRofiler: 2 contexts collected, output directory /tmp/rpl_data_240808_142259_1796/input_results_240808_142259
+File '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.05/my_solution/step2/results.csv' is generating
+File '/mnt/lustre/a2fs-work4/work/ta163/ta163/ta163lr/archer2-gpu-course/section-2.05/my_solution/step2/results.stats.csv' is generating

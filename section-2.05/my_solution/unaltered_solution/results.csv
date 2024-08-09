@@ -1,0 +1,2 @@
+"Index","KernelName","gpu-id","queue-id","queue-index","pid","tid","grd","wgr","lds","scr","vgpr","sgpr","fbar","sig","obj","DispatchNs","BeginNs","EndNs","CompleteNs","DurationNs"
+0,"ddot(int, double*, double*, double*) [clone .kd]",0,0,0,14733,14733,131072,256,0,0,4,24,0,"0x0","0x15246663c640",6729798171839519,6729798171867363,6729798183867660,6729798183907064,12000297

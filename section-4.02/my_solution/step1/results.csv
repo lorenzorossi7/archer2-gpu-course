@@ -1,0 +1,3 @@
+"Index","KernelName","gpu-id","queue-id","queue-index","pid","tid","grd","wgr","lds","scr","vgpr","sgpr","fbar","sig","obj","DispatchNs","BeginNs","EndNs","CompleteNs","DurationNs"
+0,"__amd_rocclr_fillBufferAligned.kd",0,0,2,2851,2851,524288,256,0,0,4,32,2560,"0x14dd71470280","0x14dd655f48c0",6815551231577707,6815551231602410,6815551231609770,6815551231611510,7360
+1,"myKernel(int, int, double, double*, double*, double*) [clone .kd]",0,0,4,2851,2851,524288,256,0,0,8,24,0,"0x14dd71470180","0x14dd65708780",6815551241484514,6815551273812488,6815551273829288,6815551273831305,16800

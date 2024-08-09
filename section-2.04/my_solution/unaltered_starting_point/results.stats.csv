@@ -1,0 +1,3 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"myKernel(int, int, double, double*, double*, double*) [clone .kd]",1,15360,15360,65.75342465753425
+"__amd_rocclr_fillBufferAligned.kd",1,8000,8000,34.24657534246575

@@ -1,0 +1,2 @@
+"Index","KernelName","gpu-id","queue-id","queue-index","pid","tid","grd","wgr","lds","scr","vgpr","sgpr","fbar","sig","obj","DispatchNs","BeginNs","EndNs","CompleteNs","DurationNs"
+0,"myKernel(int, int, double, double*, double*, double*) [clone .kd]",0,0,0,54691,54691,524288,256,0,0,8,24,0,"0x14e33dd06400","0x14e332128780",6725901825138997,6725901825162796,6725901825501516,6725901825537719,338720
